@@ -28,6 +28,8 @@ A 4-module AI system that democratizes access to Indian legal research.
 
 ## 🏗️ System Architecture
 
+<img width="1172" height="514" alt="image" src="https://github.com/user-attachments/assets/c663eed0-44c1-41f2-8a07-78b986b05eb4" />
+
 ```
 User Query
     │
