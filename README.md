@@ -24,6 +24,26 @@
 ### 💡 Solution
 A 4-module AI system that democratizes access to Indian legal research.
 
+1.Home Page
+<img width="1105" height="521" alt="image" src="https://github.com/user-attachments/assets/a67b992a-b237-4b40-8485-5486cc4720d3" />
+
+2.Semantic Search
+<img width="1366" height="768" alt="Screenshot (606)" src="https://github.com/user-attachments/assets/0721e4a4-ff24-4094-add0-c02e0a063650" />
+
+3.Case Prediction Outcome
+<img width="1366" height="768" alt="Screenshot (605)" src="https://github.com/user-attachments/assets/a2bb264b-f7dc-4d08-a656-4bda2943fd4e" />
+
+4.AI Legal Assistant
+<img width="1366" height="768" alt="Screenshot (610)" src="https://github.com/user-attachments/assets/3f9c89b8-1ceb-4416-ad29-a196d992da83" />
+
+5.Document Analysis
+<img width="1366" height="768" alt="Screenshot (616)" src="https://github.com/user-attachments/assets/e7232b1b-ae59-456f-9fbc-f75bceecfee2" />
+
+
+
+
+
+
 ---
 
 ## 🏗️ System Architecture
